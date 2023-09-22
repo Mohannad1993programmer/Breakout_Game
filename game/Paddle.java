@@ -81,18 +81,5 @@ public class Paddle extends Sprite {
 		x = Commons.INIT_PADDLE_X;
 		y = Commons.INIT_PADDLE_Y;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 }
